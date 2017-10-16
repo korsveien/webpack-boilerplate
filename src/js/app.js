@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 
-import '../css/style.css'
+import '../css/style.less'
 import keenImage from '../assets/keen.png'
 
 export default class Hello extends Component {

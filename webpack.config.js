@@ -30,9 +30,12 @@ module.exports = {
                 ],
             },
             {
-                test: /\.css$/,
+                test: /\.less$/,
                 loader: ExtractTextPlugin.extract({
-                    use: 'css-loader',
+                    use: [
+                        'css-loader',
+                        'less-loader',
+                    ],
                 }),
             },
             {
