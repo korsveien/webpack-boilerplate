@@ -1,0 +1,1 @@
+https://stanko.github.io/webpack-babel-react-revisited/
