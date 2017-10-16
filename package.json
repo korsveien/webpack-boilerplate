@@ -1,5 +1,5 @@
 {
-  "name": "webpack-foo",
+  "name": "webpack-boilerplate",
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server"
